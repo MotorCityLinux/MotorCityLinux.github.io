@@ -1,7 +1,8 @@
 -------------------
 layout: post title: "Hello World" 
-description: "" category: tests
+description: "" 
+category: Releases 
 -------------------
 
-tags: [first, new, newbie]
-{% include JB/setup %} Hello?
+tags: [first, new, MCFG]
+Motor City Free Geek Xubuntu 1204
