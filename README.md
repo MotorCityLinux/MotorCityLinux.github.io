@@ -8,10 +8,10 @@ Hello! This is the GitHub page for MotorCityLinux. If you are interested in cont
 This site runs on GitHub's builtin Jekyll processing for hosting pages. It's Pretty simple, mostly HTML with a little templating, css. Jekyll builds static pages aware of things like posts to make what appears as a very simple dynamic siye with post etc.  
 
 # How Do I Help? #
-* Hit one of the To Do list items! :)
-* You'll need a GitHub account and Push access!
-* Add to the Wiki!
-* Report an [Issue] (https://github.com/MotorCityLinux/MotorCityLinux.github.io/issues) 
+* Hit one of the To Do list items (below)! :)
+* You'll need a [GitHub](try.github.io) account and Push access!
+* Add to the [Wiki](https://github.com/MotorCityLinux/MotorCityLinux.github.io/wiki)!
+* Report an [Issue](https://github.com/MotorCityLinux/MotorCityLinux.github.io/issues)!
 
 # To Do List: #
 
