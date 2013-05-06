@@ -12,5 +12,12 @@ This site runs on GitHub's builtin Jekyll processing for hosting pages. It's Pre
 
 # To Do List: #
 
+* Project Section and front page view
+* Motor City Free Geek's Xubuntu Image:
+  * Multiple Versions
+  * Host Documents
+  * System Details
+* Tag System for Projects
+* Blog Section?
 
-# Ideas Suggestions #
+# Ideas Suggestions: #
