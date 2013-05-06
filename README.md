@@ -13,6 +13,7 @@ This site runs on GitHub's builtin Jekyll processing for hosting pages. It's Pre
 # To Do List: #
 
 * Project Section and front page view
+* Logo for MCL, other images
 * Motor City Free Geek's Xubuntu Image:
   * Multiple Versions
   * Host Documents
@@ -21,3 +22,4 @@ This site runs on GitHub's builtin Jekyll processing for hosting pages. It's Pre
 * Blog Section?
 
 # Ideas Suggestions: #
+* A really big DVD installer with lots of Maker and Hacker software. :D
