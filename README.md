@@ -10,6 +10,7 @@ This site runs on GitHub's builtin Jekyll processing for hosting pages. It's Pre
 # How Do I Help? #
 * Hit one of the To Do list items! :)
 * You'll need a GitHub account and Push access!
+* Add to the Wiki!
 
 # To Do List: #
 
