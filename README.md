@@ -11,7 +11,7 @@ This site runs on GitHub's builtin Jekyll processing for hosting pages. It's Pre
 * Hit one of the To Do list items! :)
 * You'll need a GitHub account and Push access!
 * Add to the Wiki!
-* Report an [Issue https://github.com/MotorCityLinux/MotorCityLinux.github.io/issues] 
+* Report an [Issue] (https://github.com/MotorCityLinux/MotorCityLinux.github.io/issues) 
 
 # To Do List: #
 
