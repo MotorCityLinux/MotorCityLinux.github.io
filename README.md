@@ -1,7 +1,7 @@
 MotorCityLinux.github.io
 ========================
 
-Hello! This is the GitHub page for MotorCityLinux. If you are interested in contributing just let me know. If you are looking for a download you want to go back here.  
+Hello! This is the GitHub page for MotorCityLinux. If you are interested in contributing just let me know. If you are looking for a download you want to go [over here](https://www.dropbox.com/sh/wbr3d5ovwvyqvtt/Dg9hxgpWsK).  
 
 # How Does this work? #
 
