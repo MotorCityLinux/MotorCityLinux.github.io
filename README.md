@@ -26,6 +26,3 @@ This site runs on GitHub's builtin Jekyll processing for hosting pages. It's Pre
 
 # Ideas & Suggestions: #
 * A really big DVD installer with lots of Maker and Hacker software. :D
-
-# Did you know? #
-* The Ampersand's shape '&' is derived from the letters Et, Latin for 'and'.
