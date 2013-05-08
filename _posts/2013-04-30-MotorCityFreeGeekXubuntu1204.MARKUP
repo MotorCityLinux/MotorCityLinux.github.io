@@ -1,8 +1,19 @@
 -------------------
-layout: post title: "Hello World" 
+layout: 
+post title: "Motor City Free Geek XU1204" 
 description: "" 
 category: Releases 
 -------------------
 
-tags: [first, new, MCFG]
-Motor City Free Geek Xubuntu 1204
+<h1>
+Motor City Free Geek Xubuntu 1204 CD
+</h1>
+<p>
+As the name implies, Motor City Free Geek's ISO is based on Xubuntu 12.04. Of course there are however, a few differences. This distrobution was specifically designed to fit on a CD! Yes, that's right, no more buying fancy DVD+/-R/W disks that you don't know what you would do with otherwise. You can use the same 700MB disks you still have lying around from back in the day when you used to burn CDs.
+</p>
+<p>
+In line with the 'fits on a CD' mentality is also the ability to run on 'low end' hardware. While that's a fairly uncertain way to classify hardware, I can tell you that we were able to install and boot this software on a Pentium II running at approximately 700MHz, although yes it really hurtz.
+</p>
+<p>
+How did we perform such a great magical feat?! Well, it wasn't what most people consider magical at all. Needless to say compromises were made, for this specific ISO we used UCK to strip out a few things. This disk only has the following languages: English, Spanish, French, German, Mandarin, and Russian. Alsi this disk does not have the Windows friendly Wubi installer. However it is important to note the lack of the Wubi installer does not mean that it is anymore difficult to install side by side with Windows. Just Boot from the disk, enjoy the wonderful live environment and install from there!
+</p>
